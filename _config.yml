@@ -3,7 +3,7 @@ title: Shopicruit
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple site that uses JavaScript to filter and display product information from a Shopify store.
-baseurl: /shopicruit # the subpath of your site, e.g. /blog/
+baseurl: "/shopicruit" # the subpath of your site, e.g. /blog/
 #url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: uafrazier
 github_username:  uafrazier
